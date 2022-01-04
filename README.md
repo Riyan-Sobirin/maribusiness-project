@@ -24,6 +24,5 @@ melalukan pemetaan terhadap sebaran data yang ada.
 <img src="Dokumentasi/Real-timeInferencePipeline.PNG" />
 
 # Power BI Dashboard
-<img src="Dokumentasi/Report Power BI/Dashboard1.png" />
-<img src="Dokumentasi/Report Power BI/Dashboard2.png" />
-<img src="Dokumentasi/Report Power BI/Dashboard3.png" />
+<img src="Dokumentasi/Report Power BI/ Dashboard Power BI Service.jpg" />
+<img src="Dokumentasi/Report Power BI/Hasil Dashboard Desktop BI.jpg" />
