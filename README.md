@@ -1,6 +1,7 @@
 
 # Dokumentasi Capstone Project MariBisnis
-
+### Video Dokumentasi
+https://web.microsoftstream.com/video/9e3d9ed1-8f76-48eb-a153-13fed1555b15
 
 ### Permasalahan
 MariBisnis ingin mengetahui trend bisnis dari penjualan rumah yang ada di Amerika 
